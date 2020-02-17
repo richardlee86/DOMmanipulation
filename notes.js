@@ -7,7 +7,7 @@
 var h1 = document.querySelector("h1");
 h1.style.color = "pink";
 
-var body = document.querySelector("body");
+//var body = document.querySelector("body");
 var isBlue = false;
 var isRed = false;
 setInterval(function() {
